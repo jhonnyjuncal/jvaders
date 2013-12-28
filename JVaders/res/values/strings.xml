@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">JVaders</string>
+	<string name="title_activity_opciones">OpcionesActivity</string>
+	<string name="title_1">Jhonny</string>
+	<string name="title_2">Juncal</string>
+	<string name="start">Inicio</string>
+	<string name="accureay">Precision</string>
+</resources>
